@@ -19,10 +19,10 @@ URL Shortener is a simple web application that allows users to generate short, h
 ## Clone the repository:
 
 ```
-git clone https://github.com/yourusername/url-shortener.git
-cd url-shortener
+git clone https://github.com/DeepakSaini77/Url-Shortener
+cd Url-Shortener
 ```
-#### for run and test plese refer [setup.md]()
+#### for run and test plese refer [setup.md](https://github.com/DeepakSaini77/Url-Shortener/blob/master/setup.md)
 
 
 ## Preview
